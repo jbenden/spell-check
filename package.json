@@ -7,7 +7,7 @@
     "atom-space-pen-views": "^2.0.0",
     "multi-integer-range": "^2.0.0",
     "natural": "^0.4.0",
-    "spellchecker": "git+https://github.com/jbenden/node-spellchecker.git",
+    "spellchecker": "git+https://github.com/jbenden/node-spellchecker.git#freebsd-support",
     "spelling-manager": "0.3.0",
     "underscore-plus": "^1"
   },
